@@ -41,8 +41,7 @@ body {
 .carousel-inner:hover
 {
 
-  filter: saturate(100%);
-filter: color(blue);
+  filter: hue-rotate(180deg);
   cursor: pointer;
 
 }
