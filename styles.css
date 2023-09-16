@@ -32,7 +32,7 @@ body {
 {
    width: 100%;
    height: auto;
-   filter: grayscale(50%);
+   filter: grayscale(100%);
 
 
 }
@@ -40,7 +40,7 @@ body {
 
 .carousel-inner:hover
 {
-   filter: grayscale(100%);
+   filter: grayscale(0%);
   cursor: pointer;
 
 }
