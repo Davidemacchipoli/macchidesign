@@ -40,7 +40,6 @@ body {
 
 .carousel-inner:hover
 {
-
   filter: hue-rotate(180deg);
   cursor: pointer;
 
